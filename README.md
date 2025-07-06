@@ -11,7 +11,7 @@
 
 **MENTOR**      : NEELA SANTHOSH
 
-#**DESCRIPTION**:
+# **DESCRIPTION**:
 The **Speech Recognition System** is a Python script designed to convert spoken audio into text. It provides a basic, functional speech-to-text capability, primarily utilizing Google's Web Speech API for transcription. This system is ideal for transcribing short audio clips captured directly from a microphone.
 
 **Key Features and Functionality:**
