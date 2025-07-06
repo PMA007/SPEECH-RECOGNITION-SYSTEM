@@ -38,3 +38,4 @@ This system serves as a foundational example for building speech-to-text applica
 This system offers a clear starting point for anyone looking to integrate speech-to-text functionality into their Python projects.
 
 # **OUTPUT**:
+<img width="1031" height="222" alt="Image" src="https://github.com/user-attachments/assets/9d5751c7-3a61-473c-aa44-5c4a03b96f2d" />
